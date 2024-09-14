@@ -1,0 +1,14 @@
+names:
+- Customer_number
+- Name
+- address
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: gas_bills
+  url: https://universe.roboflow.com/electricity-bills/gas_bills/dataset/1
+  version: 1
+  workspace: electricity-bills
+test: test/images
+train: train/images
+val: valid/images
